@@ -13,4 +13,4 @@ while(f<=t)
 ```
 ------
 + t-f==0 is check -> 1 < 6 -> 1+2 < 6 -> 1+2+3 == 6
-+ else t++ then continue to minus in total people;
++ else t++ to continue minus in total people;
